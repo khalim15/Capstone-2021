@@ -11,9 +11,13 @@ We have also included a diagram of how we wired our Arduino for reference. The G
 Before opening the B4A code, please make sure the most up to date version is downloaded, and that the required external libraries are downloaded. 
 Please go to https://www.b4x.com/b4a.html and follow steps 1 to 3.
 External libraries include: Charts, dialogs2, GPS, MatrixOps, Serial, RunTimePermissions, and RandomAccessFile.
+
 Links to the external libraries:
+
 https://www.b4x.com/android/forum/threads/android-charts-framework.8260/
+
 https://www.b4x.com/android/forum/threads/matrix-operations-library.15949/
+
 https://www.b4x.com/android/forum/threads/dialogs2-library-an-update-to-the-original-dialogs-library.106938/
 
 We do not have a strong background in software, so we understand that there may be some things that could have been done more efficiently. 
