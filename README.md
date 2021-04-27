@@ -8,6 +8,8 @@ The code is fully commented, with suggestions for improvement in the future.
 The arduino file contains the exact same file used on our Arduino Uno WIFI Rev 2 configuration in the report. 
 We have also included a diagram of how we wired our Arduino for reference. The Galipeau & Tullis thesis, section 4 was referred to for certain calculations. 
 
+Before opening the B4A code, please make sure the most up to data platform is downloaded. Please go to https://www.b4x.com/b4a.html and follow steps 1 to 4.
+
 We do not have a strong background in software, so we understand that there may be some things that could have been done more efficiently. 
 Additionally, we do think that moving the framework from the B4A platform to Android Studio is better for future revisions. 
 We sincerly hope that this project can become the basis of more advanced future projects and techologies. 
